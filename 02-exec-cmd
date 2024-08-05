@@ -1,0 +1,4 @@
+#!/usr/bin/with-contenv bash
+
+echo "/home/fiji/Fiji.app/ImageJ-linux64" > /config/.config/openbox/autostart
+
